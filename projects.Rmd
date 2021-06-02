@@ -1,0 +1,30 @@
+---
+title: "About"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+
+# Linking Animal Behaviour and Environmental Change
+
+As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels. For my research, I am to delve deeper into the potential consequences for animal behaviour.
+![](images/DNAExtract_TaggedGoby.jpg)
+
+# Social Behaviour of Coral Reef Fishes
+
+
+# Fisheries Management
+
+
+# Artificial Reef Research
+

@@ -1,0 +1,18 @@
+name: "Catheline Froehlich Research"
+navbar:
+  title: "Catheline Froehlich Research"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "In The News"
+      href: news.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<catheline.froehlich@gmail.com>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/GobyPrincess/
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com.au/citations?user=lem8ckUAAAAJ&hl=en
+output_dir: "docs"
