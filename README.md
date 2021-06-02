@@ -6,9 +6,6 @@ Catheline is currently a PhD Fellow at the University of Wollongong.She studies 
 <a href = "https://cymfroehlich.github.io/CathelineFroehlichResearch/"> ![](images/104466995_10224587592503762_5668751840803121386_o.jpg)</a>
 <a href = "https://cymfroehlich.github.io/CathelineFroehlichResearch/"> ![](images/DSCN0190.jpg)</a>
 
-Find out more about her research: https://cymfroehlich.github.io/CathelineFroehlichResearch/
-</div>
-<div class="col-sm-6">
 
 <a href = "https://cymfroehlich.github.io/CathelineFroehlichResearch/"> ![](images/23012020P1230143.jpg)
 </a>
