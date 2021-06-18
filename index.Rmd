@@ -3,6 +3,7 @@ title: "Catheline Froehlich Research"
 output: html_document
 ---
 
+![](images/banner.jpg)
 <style type="text/css">
 .title {
   display: none;
@@ -22,6 +23,7 @@ output: html_document
 Catheline is a behavioural ecologist interested in linking animal behaviour and ecological changes in the environment. She studies animal behaviour, environmental disturbances, coral reefs, artificial reefs, mutualistic relationships, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
 
 Catheline is currently a PhD Fellow at the University of Wollongong and also the first fellow to receive the Zoltan Florian Marine Biology Fellowship through the Lizard Island Doctoral Fellowship Program from the Australian Museum. 
+
 
 Catheline is also a councillor for the [Australian Coral Reef Society](https://australiancoralreefsociety.org/). The society is the world's oldest group of coral reef scientists and conservationists (since 1922). Jump on our twitter for the latest news of what we've been up to @[AustCoralReefs](https://twitter.com/AustCoralReefs).
 
