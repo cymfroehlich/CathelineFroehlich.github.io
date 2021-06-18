@@ -1,0 +1,60 @@
+---
+title: "In The News"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+## Catheline's research has been featured in several news articles.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+# Corals and goby fishes showing signs of recovery at Lizard Island
+https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/
+
+<a href = "https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/"> ![](images/27012020DSCN7656.jpg)
+</a>
+_______________________________________________________________________
+
+# Why do gobies and corals live 
+https://lirrf.org/posts/why-do-gobies-and-corals-live-together/
+
+<a href = "https://lirrf.org/posts/why-do-gobies-and-corals-live-together/"> ![](images/DSCN0514-filter.jpg)
+</a>
+_______________________________________________________________________
+
+
+# From Texas to the Reef, PhD student lands prestigious fellowship
+https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php
+
+<a href = "https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php"> ![](images/Catheline Froehlich.pdj..14.03.19.002.jpg)
+</a>
+_______________________________________________________________________
+
+# Showcasing UTRGV Research and Diving in Texas Magazine
+
+![](images/16251724_10212582300898975_7618050145826652918_o.jpg)
+_______________________________________________________________________
+
+# Sea nursery: Man-made reef aimed at saving red snapper
+https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/
+
+<a href = "https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/"> ![](images/DeployRGVReefGuy.jpg)
+</a>
+_______________________________________________________________________
+
+
+# Catheline's hobbies were featured in the news
+
+Organising and Founding the Brownsville International Film Festival
+https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/
+
+<a href = "https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/
+"> ![](images/BIFFlogo2016event.jpg)
+</a>
