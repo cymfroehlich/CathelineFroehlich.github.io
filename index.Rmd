@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Catheline Froehlich**
+# **Welcome to Catheline Froehlich's Research**
 
 Catheline is a behavioural ecologist interested in linking animal behaviour and ecological changes in the environment. She studies animal behaviour, environmental disturbances, coral reefs, artificial reefs, mutualistic relationships, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
 
@@ -34,3 +34,5 @@ Catheline co-founded a podcast [The Graduates Sci-Com](https://open.spotify.com/
 ![](images/23012020P1230143.jpg)
 </a>
 </div>
+
+![](images/IntroPageSlide.jpg)
