@@ -1,5 +1,5 @@
 ---
-title: "Research In The News"
+title: "RESEARCH IN THE NEWS"
 output:
   html_document:
     toc: true
