@@ -74,11 +74,11 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 </div>
 <div class="col-sm-6">
 
- <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783618302418?via%3Dihub"> 
+ <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715?dgcid=rss_sd_all#!"> 
  ![](images/10014876_10152148903631794_1171996106372918196_o.jpg)
  </a>
 
-<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715?dgcid=rss_sd_all#!"> 
+<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783618302418?via%3Dihub"> 
 ![](images/54ea572b32a96image.jpg)
 </a>
 [Images by Seth Patterson](https://www.flickr.com/photos/spatterd/)
